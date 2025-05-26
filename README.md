@@ -15,6 +15,8 @@ PL:
 Lancelot to wielojęzyczny bot Telegram służący do zarządzania finansami osobistymi. Umożliwia śledzenie wydatków, dochodów, doładowań oraz planowanie budżetu przy użyciu prostego interfejsu opartego na przyciskach. Obsługuje wiele języków, co czyni go wygodnym dla użytkowników międzynarodowych.
 
 🚀 Возможности | Features | Funkcje
+
+
 RU  
 Многоязычное меню и тексты	
 Управление состояниями FSM
@@ -37,6 +39,8 @@ Interfejs przyciskowy
 Strukturalny i skalowalny kod
 
 🛠️ Технологии | Technologies | Technologie
+
+
 Python 3.11
 
 aiogram 3.x
